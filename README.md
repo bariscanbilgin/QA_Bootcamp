@@ -4,4 +4,4 @@ Barış Can Bilgin's QA Bootcamp Final Project for "TechCareer QA Elevate Bootca
 2 - Automated Testing for "opengameart.org" using Java and Selenium.
 
 
-![Allure Report for the Tests]([https://github.com/bariscanbilgin/QA_Bootcamp/blob/main/AllureReport_1.png?raw=true])
+![Allure Report for the Tests]([https://github.com/bariscanbilgin/QA_Bootcamp/blob/main/AllureReport_1.png])
