@@ -1,4 +1,4 @@
-<h4>Barış Can Bilgin's QA Bootcamp Final Project for "TechCareer QA Elevate Bootcamp" in 2024.</h4>
+<h3>Barış Can Bilgin's QA Bootcamp Final Project for "TechCareer QA Elevate Bootcamp" in 2024.</h3>
 
 1 - Manual Testing for "opengameart.org". </br>
 2 - Automated Testing for "opengameart.org" using Java and Selenium.
